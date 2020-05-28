@@ -45,3 +45,40 @@ Steps to run HotelNest:
 11) Open Android Studio and open the "HotelNest/AndroidStudioFile" folder.
 
 12) Run the mobile app on emulator Nexus 5X API 28.
+
+<br />
+
+## Screenshots
+
+### Mobile App (for customer)
+
+<img src="/screenshots/logo.png" width="300px" /><img src="/screenshots/sign-in.png" width="300px" /><img src="/screenshots/register.png" width="300px" />
+
+<img src="/screenshots/search.png" width="300px" /><img src="/screenshots/search-result.png" width="300px" />
+
+<img src="/screenshots/hotel-detail.png" width="300px" /><img src="/screenshots/hotel-detail2.png" width="300px" /><img src="/screenshots/confirm-booking.png" width="300px" />
+
+<br />
+
+### Management Website (for hotel staff)
+![](/screenshots/management-sign-in.png)
+
+Header
+![](/screenshots/management-header.png)
+
+Search rooms for booking
+![](/screenshots/management-search.png)
+
+Bookings Management
+![](/screenshots/management-bookings.png)
+
+Edit Booking
+![](/screenshots/management-edit-booking.png)
+
+Hotel Profile
+![](/screenshots/management-hotel-profile.png)
+
+![](/screenshots/management-hotel-profile2.png)
+
+Rooms Management
+![](/screenshots/management-rooms.png)
