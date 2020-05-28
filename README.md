@@ -60,6 +60,14 @@ Steps to run HotelNest:
 
 <br />
 
+### Booking Website (for customer)
+Hotel Profile
+![](/screenshots/hotel-profile.png)
+
+![](/screenshots/hotel-profile2.png)
+
+<br />
+
 ### Management Website (for hotel staff)
 ![](/screenshots/management-sign-in.png)
 
