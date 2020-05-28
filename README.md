@@ -52,11 +52,11 @@ Steps to run HotelNest:
 
 ### Mobile App (for customer)
 
-<img src="/screenshots/logo.png" width="300px" /><img src="/screenshots/sign-in.png" width="300px" /><img src="/screenshots/register.png" width="300px" />
+<img src="/screenshots/logo.png" width="290px" /><img src="/screenshots/sign-in.png" width="290px" /><img src="/screenshots/register.png" width="290px" />
 
-<img src="/screenshots/search.png" width="300px" /><img src="/screenshots/search-result.png" width="300px" />
+<img src="/screenshots/search.png" width="290px" /><img src="/screenshots/search-result.png" width="290px" />
 
-<img src="/screenshots/hotel-detail.png" width="300px" /><img src="/screenshots/hotel-detail2.png" width="300px" /><img src="/screenshots/confirm-booking.png" width="300px" />
+<img src="/screenshots/hotel-detail.png" width="290px" /><img src="/screenshots/hotel-detail2.png" width="290px" /><img src="/screenshots/confirm-booking.png" width="290px" />
 
 <br />
 
